@@ -1,1 +1,22 @@
-requrirements
+# ==============================
+# Notification Prioritization Engine
+# Python Dependencies
+# ==============================
+
+# Web framework for REST API
+flask
+
+# Data processing library (optional for feature handling)
+pandas
+
+# Machine learning utilities (used for simulation / future model integration)
+scikit-learn
+
+
+# ==============================
+# External Tools (Not installed via pip)
+# ==============================
+
+# Postman was used for API testing and validation.
+# Download Postman from:
+# https://www.postman.com/downloads/
